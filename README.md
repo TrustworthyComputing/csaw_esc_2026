@@ -1,6 +1,7 @@
 CSAW 2026 Embedded Security Challenge (ESC)
 ===========================================
 
+## **Registration deadline extended to 18 September 2026
 
 ## Quick Links
 
