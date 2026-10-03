@@ -1,7 +1,7 @@
 CSAW 2026 Embedded Security Challenge (ESC)
 ===========================================
 
-## **Qualification report deadline extended to 28 September 2026 (firm)
+## **Week 1 challenges have been released
 
 ## Quick Links
 
@@ -10,6 +10,7 @@ CSAW 2026 Embedded Security Challenge (ESC)
 * [Deadlines/Logistics](https://github.com/TrustworthyComputing/csaw_esc_2026/blob/main/logistics.md#competition-deadlines)
 * [Challenge Description](https://github.com/TrustworthyComputing/csaw_esc_2026/blob/main/Challenge_Description.md)
 * [csaw.io/esc](https://www.csaw.io/esc)
+* [Finalists Announced](https://github.com/TrustworthyComputing/csaw_esc_2026/blob/main/finalists.md)
 
 ## Overview
 
