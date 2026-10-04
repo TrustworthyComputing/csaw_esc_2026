@@ -22,7 +22,7 @@ The following teams have qualified to the final round (in random order):
 - Fugazi, **Indian Institute of Technology Madras**: Krishith Vadivel, Sarveshwar SD, Avvari Rishabh, (Advisor: Chester Rebeiro)
 - Pseudonymous, **Manipal Institute of Technology, Indian Institute of Technology Bombay**: Aryan Saraf, S. G. Shoaib Ahamed, (Advisor: Sayandeep Saha)
 - Observer, **Indian Institute of Technology Roorkee**: Shashank Kumar, Kunal Kashyap, Garvit Sharma, Tanmay Arya Rajeevalochana, (Advisor: Sateesh Kumar Peddoju)
-- InfoSecIITR, **Indian Institute of Technology Roorkee**: Vansh Gautam, Aryan Gupta, Laksh Gupta, Saurav Gupta, (Advisor: Sateesh Kumar Peddoju)
+- InfoSecIITR, **Indian Institute of Technology Roorkee**: Vansh Gautam, Aryan Gupta, Laksh Jain, Saurav Garg, (Advisor: Sateesh Kumar Peddoju)
 - Trojan Slayers, **Indian Institute of Technology Kanpur**: Ananthan R, Ramya Rasika S R, (Advisor: Angshuman Karmakar)
 - Cold Boot, **Indian Institute of Technology Kanpur**: Aldin Correya, Jagan Deepu, Akshay Biju, (Advisor: Angshuman Karmakar)
 - Nojobsforus, **Indian Institute of Technology Roorkee**: Taufeeque Sifat, Shivam, Divyam Kumar, Amogh Srivastava, (Advisor: Sparsh Mittal)
