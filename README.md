@@ -1,7 +1,7 @@
 CSAW 2026 Embedded Security Challenge (ESC)
 ===========================================
 
-## **Week 1 challenges have been released
+## **Week 2 challenges have been released
 
 ## Quick Links
 
