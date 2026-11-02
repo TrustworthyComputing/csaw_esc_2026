@@ -1,7 +1,8 @@
 CSAW 2026 Embedded Security Challenge (ESC)
 ===========================================
 
-## **Set 3 challenges have been released
+## **FINAL REPORT DEADLINE extended to November 9th, 2026**
+
 
 ## Quick Links
 
